@@ -1,0 +1,26 @@
+body{font:12px/150% Arial,Verdana,\5b8b\4f53;color: #666;}
+body,ul,ol,dl,dt,dd,h2,h3,h4,h5,h6,p{margin: 0;padding: 0;}
+h2,h3,h4,h5,h6{font-weight: 400;}
+ul{list-style: none;}
+li{float: left;}
+a{text-decoration: none;color:#666;}
+a:hover{color: #C81623;}
+img{float: left;}
+i{display: inline-block;}
+/*-----------------------------------------------*/
+.c-red{color: #C81623;}
+.c-fff{color: #fff;}
+.c-999{color: #999;}
+.c-333{color: #333;}
+.bg-red{background-color: #C81623;}
+.bg-red1{background-color: #B1191A;}
+
+.f-l{float: left;}
+.f-r{float: right;}
+.c-b{clear: both;}
+.o-h{overflow: hidden;}
+.b-n{border: none;}
+
+.layout-h2{color: #333;font-size: 20px;line-height: 30px;display: inline-block;}
+.m-banner{overflow: hidden;}
+#main .home-life,.floor,.m-banner,.ft-t,.ft-b{margin-top: 25px;}
